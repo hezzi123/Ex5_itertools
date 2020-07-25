@@ -1,0 +1,3 @@
+C:/Users/ariki/CLionProjects/Ex5_itertools/cmake-build-debug/CMakeFiles/Ex5_itertools.dir
+C:/Users/ariki/CLionProjects/Ex5_itertools/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ariki/CLionProjects/Ex5_itertools/cmake-build-debug/CMakeFiles/rebuild_cache.dir
